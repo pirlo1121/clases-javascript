@@ -1,0 +1,41 @@
+export const usuarios = [
+    { nombre: 'Carlos', edad: 25, pais: 'México', activo: true },
+    { nombre: 'Ana', edad: 32, pais: 'España', activo: false },
+    { nombre: 'Juan', edad: 28, pais: 'Colombia', activo: true },
+    { nombre: 'María', edad: 22, pais: 'Argentina', activo: false },
+    { nombre: 'Sofía', edad: 35, pais: 'Chile', activo: true },
+    { nombre: 'Pedro', edad: 30, pais: 'Chile', activo: true },
+    { nombre: 'Lucía', edad: 27, pais: 'España', activo: false },
+    { nombre: 'José', edad: 40, pais: 'Colombia', activo: true },
+    { nombre: 'Fernanda', edad: 29, pais: 'Argentina', activo: true },
+    { nombre: 'Camila', edad: 23, pais: 'Chile', activo: false },
+    { nombre: 'Miguel', edad: 33, pais: 'México', activo: true },
+    { nombre: 'Raquel', edad: 26, pais: 'Colombia', activo: false }
+  ];
+
+export const usuarios2 =[
+    { nombre: 'José', edad: 40, pais: 'Colombia', activo: true },
+    { nombre: 'Fernanda', edad: 29, pais: 'Argentina', activo: true },
+    { nombre: 'Camila', edad: 23, pais: 'Chile', activo: false },
+    { nombre: 'Miguel', edad: 33, pais: 'México', activo: true },
+    { nombre: 'Raquel', edad: 26, pais: 'Colombia', activo: false },
+    { nombre: 'Diego', edad: 31, pais: 'Colombia', activo: true },
+    { nombre: 'Valeria', edad: 24, pais: 'Argentina', activo: false },
+    { nombre: 'Patricia', edad: 38, pais: 'Argentina', activo: true },
+    { nombre: 'José', edad: 40, pais: 'Colombia', activo: true },
+    { nombre: 'Fernanda', edad: 29, pais: 'Argentina', activo: true },
+    { nombre: 'Camila', edad: 23, pais: 'Chile', activo: false },
+    { nombre: 'Miguel', edad: 33, pais: 'México', activo: true },
+    { nombre: 'Raquel', edad: 26, pais: 'Colombia', activo: false },
+    { nombre: 'Diego', edad: 31, pais: 'Colombia', activo: true },
+    { nombre: 'Valeria', edad: 24, pais: 'Argentina', activo: false },
+    { nombre: 'Patricia', edad: 38, pais: 'Argentina', activo: true },
+    { nombre: 'José', edad: 40, pais: 'Colombia', activo: true },
+    { nombre: 'Fernanda', edad: 29, pais: 'Argentina', activo: true },
+    { nombre: 'Camila', edad: 23, pais: 'Chile', activo: false },
+    { nombre: 'Miguel', edad: 33, pais: 'México', activo: true },
+    { nombre: 'Raquel', edad: 26, pais: 'Colombia', activo: false },
+    { nombre: 'Diego', edad: 31, pais: 'Colombia', activo: true },
+    { nombre: 'Valeria', edad: 24, pais: 'Argentina', activo: false },
+    { nombre: 'Patricia', edad: 38, pais: 'Argentina', activo: true }
+]
